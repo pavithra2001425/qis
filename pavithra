@@ -1,1 +1,7 @@
 this is cheturi
+
+
+
+
+kubeadm join 192.168.212.1:6443 --token uz55k5.2vo3cqzkv7uepr7m \
+	--discovery-token-ca-cert-hash sha256:7627ed8c242fe6958d232cf8cd0032d9bc8845959fde142a7f2e30d095224932 
